@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "one",
+      "description": "one post",
+      "publishAt": "01-21-2021"
+    },
+    {
+      "id": "2",
+      "title": "two",
+      "description": "two post",
+      "publishAt": "01-21-2021"
+    },
+    {
+      "id": "3",
+      "title": "three",
+      "description": "three post",
+      "publishAt": "01-21-2021"
+    },
+    {
+      "title": "four",
+      "description": "four post",
+      "publishAt": "2021-01-20",
+      "id": "yN2qcgg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "test",
+      "email": "test@test.com"
+    },
+    {
+      "name": "example",
+      "email": "example@test.com",
+      "id": "Wym9Q2r"
+    }
+  ]
+}
